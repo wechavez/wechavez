@@ -1,6 +1,5 @@
 Hi I like building 🏗️
 - Fullstack Developer
-- AWS Enthusiast
 - I love football
 
 <!---
